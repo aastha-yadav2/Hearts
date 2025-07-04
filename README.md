@@ -4,7 +4,7 @@ A beautiful animated **heart** crafted using the HTML5 `<canvas>` element and po
 
 🌐 **Live Demo**: [View Heart Animation](https://your-live-demo-link.com)
 
-📦 **GitHub Repo**: [aastha-yadav2/Heart-Animation](https://github.com/aastha-yadav2/Heart-Animation)
+📦 **GitHub Repo**: [aastha-yadav2/Heart-Animation](https://github.com/aastha-yadav2/Hearts)
 
 ---
 
@@ -52,7 +52,7 @@ Edit
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/aastha-yadav2/Heart-Animation.git
+git clone https://github.com/aastha-yadav2/Hearts)
 cd Heart-Animation
 2. Run the App
 Simply open the index.html file in any browser:
